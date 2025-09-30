@@ -4,45 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ff1f0a-9002-48ac-8854-4127403b5a17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_turtle01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_turtle02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_turtle03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2주차/250909_turtle04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3주차/250916_ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_pr07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차/250923_turtle01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5주차/250930_ex00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type.py" afterDir="false" />
+    <list default="true" id="c8ff1f0a-9002-48ac-8854-4127403b5a17" name="Changes" comment="python_04">
+      <change afterPath="$PROJECT_DIR$/5주차/250930_ex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5주차/250930_ex00.py" beforeDir="false" afterPath="$PROJECT_DIR$/5주차/250930_ex00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KyunghoCha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KyunghoCha/python_04.git",
+    "accountId": "f90cae66-6265-4c0a-8d58-669b9b2b451d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -64,9 +44,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.250930_ex00.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CKH\python_04\Mine\5주차" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,11 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1759191815880</updated>
       <workItem from="1759191816942" duration="200000" />
-      <workItem from="1759192031250" duration="776000" />
+      <workItem from="1759192031250" duration="7918000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="python_04" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mine$250930_ex00.coverage" NAME="250930_ex00 Coverage Results" MODIFIED="1759193517952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5주차" />
   </component>
 </project>
