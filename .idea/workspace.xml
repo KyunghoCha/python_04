@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ff1f0a-9002-48ac-8854-4127403b5a17" name="Changes" comment="2025-10-14 실습">
-      <change afterPath="$PROJECT_DIR$/9주차/251028_ex.ipynb" afterDir="false" />
+    <list default="true" id="c8ff1f0a-9002-48ac-8854-4127403b5a17" name="Changes" comment="실습">
+      <change afterPath="$PROJECT_DIR$/13주차/251125_ex.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14주차/251202_ex.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7주차/251014_ex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7주차/251014_ex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10주차/251104_ex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10주차/251104_ex.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.250909_ex01.executor&quot;: &quot;Run&quot;,
     &quot;Python.250930_ex00.executor&quot;: &quot;Run&quot;,
     &quot;Python.251014_ex.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -94,6 +96,11 @@
       <workItem from="1760401131581" duration="10067000" />
       <workItem from="1761611523917" duration="2389000" />
       <workItem from="1761614379220" duration="4493000" />
+      <workItem from="1762214740025" duration="8535000" />
+      <workItem from="1762819347928" duration="8783000" />
+      <workItem from="1763425229909" duration="7885000" />
+      <workItem from="1764030059054" duration="6822000" />
+      <workItem from="1764635073909" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="2025-09-30 실습">
       <option name="closed" value="true" />
@@ -127,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760401817676</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="실습">
+      <option name="closed" value="true" />
+      <created>1762214786879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762214786879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +152,12 @@
     <MESSAGE value="python_04" />
     <MESSAGE value="2025-09-30 실습" />
     <MESSAGE value="2025-10-14 실습" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-10-14 실습" />
+    <MESSAGE value="실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="실습" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Mine$251014_ex.coverage" NAME="251014_ex Coverage Results" MODIFIED="1760416821942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7주차" />
+    <SUITE FILE_PATH="coverage/Mine$250909_ex01.coverage" NAME="250909_ex01 Coverage Results" MODIFIED="1762826632832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2주차" />
     <SUITE FILE_PATH="coverage/Mine$250930_ex00.coverage" NAME="250930_ex00 Coverage Results" MODIFIED="1759193517952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5주차" />
   </component>
 </project>
